@@ -1,3 +1,3 @@
-![Icono de Tommy Melomaniac](icon-512.png)
+![Icono de Tommy Melomaniac](assets/icon-512.png)
 
 
