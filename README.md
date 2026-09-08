@@ -1,2 +1,3 @@
-# Tommy-Melomaniac
-Videogame in 8-bits made for and to the melomaniacs
+![Icono de Tommy Melomaniac](icon-512.png)
+
+
